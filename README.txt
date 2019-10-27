@@ -1,33 +1,17 @@
-
 -About-
 
-
-'This program is the generator of e(euler number) with nth decimal place like earlier program pi generator.'
-
-Like Pi this also
-:
-advantage  : if you(user) enter other input instead of number , no effect on this program.
-
-disadvantage: program output materials form is depend on the size of your(user's) terminal.
-
-But don't worry. even the view is not clear , this program can work exactly
- 
-                
-recommend: [ 81 x 24  ]
-use this ratio on your terminal and run this program.
-And view clearly.
-    
-
-    enjoy :)
+	This program can help you to generate the fibonacci Sequence to nth number
 
 
--Obito-
+	This program is sensitive. so please don't enter other thing(characters) instead of numbers.
+
+	After you run this script, you can check your result in result.txt
+	
+	enjoy :)
+
+-obito-
 
 
-
-
-
-+++++++++++++++++++++++++++++++++++++
 
 
 Help
@@ -41,6 +25,6 @@ Open your terminal
 -> apt install python3
 -> pip install requirements
 -> pip install colorama
--> python3 findEulerNumber.py
+-> python3 fibo.py
 
 note: this is example. use your package manager instead of apt
